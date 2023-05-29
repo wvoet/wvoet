@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1 align="center">Hi 👋, I'm Wout</h1>
 <h3 align="center">A passionate Student softwaredeveloper from Belguim</h3>
 
